@@ -1,0 +1,6 @@
+C:\Users\winkler\source\repos\KFZTEST\CommonType\bin\Debug\CommonType.dll
+C:\Users\winkler\source\repos\KFZTEST\CommonType\bin\Debug\CommonType.pdb
+C:\Users\winkler\source\repos\KFZTEST\CommonType\obj\Debug\CommonType.csproj.CoreCompileInputs.cache
+C:\Users\winkler\source\repos\KFZTEST\CommonType\obj\Debug\CommonType.dll
+C:\Users\winkler\source\repos\KFZTEST\CommonType\obj\Debug\CommonType.pdb
+C:\Users\winkler\source\repos\KFZTEST\CommonType\obj\Debug\CommonType.csprojAssemblyReference.cache

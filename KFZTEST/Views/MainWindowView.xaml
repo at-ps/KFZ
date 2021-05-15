@@ -1,0 +1,56 @@
+﻿<Window x:Class="KFZTEST.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KFZTEST"
+        xmlns:ViewModel="clr-namespace:KFZTEST.ViewsModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Column="1"  Grid.Row="1">
+            <Button Command="{Binding GetAllDataCommand}" >Daten holen</Button>
+            <Button Command="{Binding InsertDataCommand}" >Daten speichen</Button>
+            <Button Command="{Binding UpdateDataCommand}" >Daten ändern</Button>
+            <Button Command="{Binding DeleteAllDataCommand}" >Daten loeschen</Button>
+        </StackPanel>
+        <Label Grid.Row="1" Content="{Binding Infos}"></Label>
+        <ListBox   ItemsSource="{Binding kfzOC}" SelectedItem="{Binding SelectedItem}" Grid.Row="0" Grid.Column="0"  >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox  IsChecked="{Binding IsC}"></CheckBox>
+                        <Label Content="{Binding Idkfz}"></Label>
+                        <Label Content="{Binding FahrgestellNr}"></Label>
+                        <Label Content="{Binding Kennzeichnen}"></Label>
+                        <Label Content="{Binding Leistung}"></Label>
+                        <Label Content="{Binding Typ}"></Label>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <StackPanel Grid.Column="1" Grid.Row="0">
+            <TextBox Text="{Binding SelectedItem.Idkfz}" ></TextBox>
+            <TextBox Text="{Binding SelectedItem.FahrgestellNr}"></TextBox>
+            <TextBox Text="{Binding SelectedItem.Kennzeichnen}"></TextBox>
+            <TextBox Text="{Binding SelectedItem.Leistung}"></TextBox>
+            <TextBox Text="{Binding SelectedItem.Typ}"></TextBox>
+
+            <Label  Content="{Binding Infosmessage}"></Label>
+            <TextBox></TextBox>
+        </StackPanel>
+
+    </Grid>
+</Window>

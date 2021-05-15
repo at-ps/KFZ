@@ -1,0 +1,16 @@
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\DataAcess.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\CommonType.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\Mk.DBConnector.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\Mk.Log.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\Npgsql.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\Mono.Security.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\DataAcess.pdb
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\bin\Debug\CommonType.pdb
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\winkler\source\repos\KFZTEST\BusinessLogic\obj\Debug\BusinessLogic.pdb
