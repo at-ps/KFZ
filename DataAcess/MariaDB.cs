@@ -155,7 +155,7 @@ namespace DataAcess
             try
             {
                 _dbsql.Adapter.ExecuteSQL(sql);
-                infoMessage?.Invoke($" erfolgreich gelöscht");
+                infoMessage?.Invoke($" erfolgreich ");
                
             }
             catch (Exception ex)

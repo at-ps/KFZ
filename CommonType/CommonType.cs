@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace CommonType
 {  /// <summary>
    ///Struktur KFZ 
@@ -19,10 +21,31 @@ namespace CommonType
 
         public KFZCT()
         {
-            
         }
 
-      
-        
+
+
+        public bool IsEqual(KFZCT kfz)
+        {
+            //    bool ergebnis = (this.Idkfz == kfz.Idkfz &&
+            //                         this.Kennzeichnen == kfz.Kennzeichnen &&
+            //                       this.Leistung == kfz.Leistung &&
+            //                        this.Typ == kfz.Typ &&
+            //                       this.FahrgestellNr == kfz.FahrgestellNr);
+
+            //    return ergebnis;
+
+            return (this.Idkfz == kfz.Idkfz &&
+                                 this.Kennzeichnen == kfz.Kennzeichnen &&
+                               this.Leistung == kfz.Leistung &&
+                                this.Typ == kfz.Typ &&
+                               this.FahrgestellNr == kfz.FahrgestellNr);
+        }
+
+
+       
     }
+
+
+  
 }

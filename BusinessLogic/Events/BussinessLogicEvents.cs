@@ -8,14 +8,14 @@ using System.Threading.Tasks;
 namespace BusinessLogic.Events // ohne class
 {
     public enum E_kfzstate
-        {
-            eKFZNew,
-            eKFZChanged,
-            eKFZDeleted
+    {
+        eKFZNew,
+        eKFZChanged,
+        eKFZDeleted
 
-        }
+    }
 
-public delegate void KFZReadyEventHandler(List<KFZModel> list);
-public delegate void InfoEventHandler(string msg);
-public delegate void KFZStateChangedEventHandler(E_kfzstate kfzs, KFZCT kfz);
+    public delegate void KFZReadyEventHandler(List<KFZModel> list);
+    public delegate void InfoEventHandler(string msg);
+    public delegate void KFZStateChangedEventHandler(E_kfzstate kfzs, KFZCT kfz);
 }

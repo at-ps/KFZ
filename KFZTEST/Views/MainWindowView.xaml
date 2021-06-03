@@ -23,7 +23,7 @@
             <Button Command="{Binding UpdateDataCommand}" >Daten ändern</Button>
             <Button Command="{Binding DeleteAllDataCommand}" >Daten loeschen</Button>
         </StackPanel>
-        <Label Grid.Row="1" Content="{Binding Infos}"></Label>
+        <Label Grid.Row="1" Content="{Binding Infos}"> </Label>
         <ListBox   ItemsSource="{Binding kfzOC}" SelectedItem="{Binding SelectedItem}" Grid.Row="0" Grid.Column="0"  >
             <ListBox.ItemTemplate>
                 <DataTemplate>

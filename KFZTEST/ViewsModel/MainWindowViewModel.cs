@@ -14,7 +14,7 @@ using System.Windows;
 
 namespace KFZTEST.ViewsModel
 {
-    class MainWindowViewModel : INotifyPropertyChanged  // -> 
+    class MainWindowViewModel : INotifyPropertyChanged // -> 
     {
         public event PropertyChangedEventHandler PropertyChanged;
         string _infomsg;
@@ -23,15 +23,19 @@ namespace KFZTEST.ViewsModel
             get { return _infomsg; }
             set
             {
-                _infomsg = value;
+                _infomsg = value; //_infomsg = ""text";
 
                 if (_infomsg != null)
                 {
                     PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("Infosmessage"));
+                    // PropertyChanged?.Invoke("text", new PropertyChangedEventArgs("Infosmessage"));
                 }
             }
 
         }
+
+        //Infosmessage = "text";
+
         KFZCollectionModel _kfzCollModel; // Backend field, variable
 
         KFZModel _selectedItem;  // Feld
@@ -45,10 +49,18 @@ namespace KFZTEST.ViewsModel
             set
             {
                 _selectedItem = value;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("SelectedItem")); // Selected muss Property Changed
+                // PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("SelectedItem")); // Selected muss Property Changed
+
+                OnPropertyChanged("SelectedItem");
             }
         }
-
+        protected void OnPropertyChanged (string Item)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(Item));
+            }
+        }
 
         private void _kfzCollModel_KFZReady(List<KFZModel> list)
         {
@@ -60,14 +72,28 @@ namespace KFZTEST.ViewsModel
         }
 
 
+        ////Field 
+        //public string name;
+
+        ////Property
+        //private string _name;
+        //public string Name { 
+        //    get { return _name; }
+        //    set {
+        //        //Gui.Update();
+        //        _name = value; }
+        //}
+
+
+        //public string Nachname { get; set; }
+
 
         public ICommand GetAllDataCommand { get; set; }
+
         public ICommand DeleteAllDataCommand { get; set; }
         public ICommand InsertDataCommand { get; set; }
         public ICommand UpdateDataCommand { get; set; }
         public ICommand _viewLoadCommand { get; set; }
-
-
 
 
         public MainWindowViewModel()
@@ -76,16 +102,24 @@ namespace KFZTEST.ViewsModel
 
             _kfzCollModel = new KFZCollectionModel();
             _kfzCollModel.KFZStateChanged += KFZUpdate;
+
+            //_kfzCollModel.KFZStateChanged += KFZUpdateConsole;
+
+
             _kfzCollModel.KFZReady += _kfzCollModel_KFZReady;
             _kfzCollModel.Infos += _kfzCollModel_Infos;
-            GetAllDataCommand = new RelayCommand(c => GetAllData());
+            GetAllDataCommand = new RelayCommand(c =>  GetAllData());
             DeleteAllDataCommand = new RelayCommand(c => DeleteKFZData());
             InsertDataCommand = new RelayCommand(c => InsertKFZData());
             UpdateDataCommand = new RelayCommand(c => UpdateKFZData());
 
-
         }
 
+        //private void KFZUpdateConsole(E_kfzstate s, KFZCT k)
+        //{
+        //    Console.WriteLine("KFZ update");
+        //}
+   
         private void KFZUpdate(E_kfzstate kfzs, KFZCT k)
         {
 
@@ -105,6 +139,7 @@ namespace KFZTEST.ViewsModel
                     break;
             }
         }
+
         private void _kfzCollModel_Infos(string msg)
         {
             Infosmessage = msg;
@@ -176,3 +211,33 @@ namespace KFZTEST.ViewsModel
 
     }
 }
+
+
+//public interface Haustier
+//{
+//    //void GetAlter();
+//    void laufen();
+//    void spielen();
+//}
+
+//public class Hund : Haustier
+//{
+//    public void laufen()
+//    {
+//        //Tier geht nach vorne
+//    }
+//    public void spielen()
+//    {
+//        //Tier schaut süß
+//    }
+
+//    public void beißen()
+//    {
+//        //Besitzer.leben -1;
+//    }
+//}
+
+//public class Katze
+//{
+
+//}

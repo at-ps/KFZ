@@ -17,6 +17,7 @@ namespace BusinessLogic
         IODBcs dbAcesssql;
         public List<KFZModel> Kfzlist { get; set; } = new List<KFZModel>(); // property
         public event KFZReadyEventHandler KFZReady;
+        public KFZReadyEventHandler KFZReady2;
         public event InfoEventHandler Infos;
         public event KFZStateChangedEventHandler KFZStateChanged;
 
@@ -46,8 +47,6 @@ namespace BusinessLogic
                 {
                     List<KFZCT> kfzliste = new List<KFZCT>();
 
-
-
                     foreach (var item in Kfzlist)
                     {
                         KFZCT kfzCT = new KFZCT
@@ -68,12 +67,26 @@ namespace BusinessLogic
                         for (int i = 0; i < kfzliste.Count; i++)
                         {
 
-                            if (kfzfromDB[i].Idkfz != kfzliste[i].Idkfz ||
-                                kfzfromDB[i].Kennzeichnen != kfzliste[i].Kennzeichnen ||
-                                kfzfromDB[i].Leistung != kfzliste[i].Leistung ||
-                                kfzfromDB[i].Typ != kfzliste[i].Typ ||
-                                kfzfromDB[i].FahrgestellNr != kfzliste[i].FahrgestellNr)
+                            if (!kfzliste[i].IsEqual(kfzfromDB[i]))
                             {
+                                //KFZCT vw = new KFZCT();
+                                //vw.Typ = "VW POLO";
+                                
+                                //KFZCT ford = new KFZCT();
+                                //ford.Typ = "Ford Ranger";
+                                //vw.IsEqual(ford);
+
+                                //vw.ConsoleWriteTyp(); // -> vw;
+                                //                      //  Console.WriteLine(this.Typ);
+                                //Console.WriteLine(vw.Typ);
+
+
+                                //ford.ConsoleWriteTyp(); // -> ford;
+
+                                //int leben = 42;
+                                //int result = auto.multiply(2, 3);
+                                //Console.Write(result);
+
                                 if (KFZStateChanged != null)
                                 {
                                     KFZStateChanged(E_kfzstate.eKFZChanged, kfzfromDB[i]);
@@ -85,42 +98,43 @@ namespace BusinessLogic
                     {
                         if (kfzliste.Count > kfzfromDB.Count) // Daten im DB wurde gelöscht
                         {
-                            var list1 = kfzliste.Where(i => !kfzfromDB.Contains(i)).ToList();
-                            var list2 = kfzfromDB.Where(i => !kfzliste.Contains(i)).ToList();
-                           bool r  =  Enumerable.SequenceEqual(list1, list2);
-                            if (KFZStateChanged != null)
+
+
+                            //kfzliste: 1,8,9
+                            //kfzfromDB: 1,8,9,10
+
+                            for (int i = 0; i < kfzliste.Count; i++)
+                            {
+                                bool kfzfromDBcontains = false;
+                                for (int y = 0; y < kfzfromDB.Count; y++)
                                 {
-                                    //KFZStateChanged(E_kfzstate.eKFZDeleted, list1[i]);
+                                    if (kfzfromDB[y].Idkfz == kfzliste[i].Idkfz)
+                                    {
+                                        kfzfromDBcontains = true;
+                                    }
                                 }
-                   
-                            // for (int i = 0; i < kfzliste.Count; i++)
-                            // {
-                            //     if (kfzfromDB[i].Idkfz != kfzliste[i].Idkfz)
-                            //     {
-                            //         if (KFZStateChanged != null)
-                            //         {
-                            //             KFZStateChanged(E_kfzstate.eKFZDeleted, kfzfromDB[i]);
-                            //         }
-                            //     }
-                            //}
+                                if (!kfzfromDBcontains && KFZStateChanged != null)
+                                {
+                                    KFZStateChanged(E_kfzstate.eKFZDeleted, kfzliste[i]);
+                                }
+                            }
                         }
                         if (kfzliste.Count < kfzfromDB.Count) // insert
                         {
                             for (int i = 0; i < kfzfromDB.Count; i++)
                             {
-                                var id = kfzfromDB[i].Idkfz;
-                                foreach (KFZCT item in kfzliste)
+                                bool kfzlistscontain = false;
+                                for (int y = 0; y < kfzliste.Count; y++)
                                 {
-                                    if (item.Idkfz != id)
+                                    if (kfzfromDB[i].Idkfz == kfzliste[y].Idkfz)
                                     {
-                                        if (KFZStateChanged != null)
-                                        {
-                                            KFZStateChanged(E_kfzstate.eKFZNew, kfzfromDB[i]);
-                                        }
+                                        kfzlistscontain = true;
                                     }
-
                                 }
-
+                                if ( !kfzlistscontain && KFZStateChanged != null)
+                                {
+                                    KFZStateChanged(E_kfzstate.eKFZNew, kfzfromDB[i]);
+                                }
                             }
                         }
                     }

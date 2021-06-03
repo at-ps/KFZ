@@ -104,3 +104,223 @@
 -> MySql.Data <There is already an open DataReader associated with this Connection which must be closed first.>
 09:05:2021 20:36:42: SELECT * FROM kfztyp | Thread-ID: 3
 -> MySql.Data <There is already an open DataReader associated with this Connection which must be closed first.>
+16:05:2021 17:17:45: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('12','12','hk-do','100','3'); | Thread-ID: 1
+-> MySql.Data <There is already an open DataReader associated with this Connection which must be closed first.>
+16:05:2021 17:22:23: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('14','14','ui-api-mtp','89','3'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '14' for key 'PRIMARY'>
+20:05:2021 13:44:14: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:44:14: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:44:19: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:44:19: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:22: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:22: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:27: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:27: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:32: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:32: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:37: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:37: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:42: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:42: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:47: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:47: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:52: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:52: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:45:57: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:45:57: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:46:02: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:46:02: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:46:34: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:46:34: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:46:39: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:46:39: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:05: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:05: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:10: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:10: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:15: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:15: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:20: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:20: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:25: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:25: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:30: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:30: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:35: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+20:05:2021 13:47:35: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:42: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 13:47:42: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:49: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 13:47:49: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:47:56: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 13:47:56: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 13:48:03: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 13:48:03: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:41:24: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:41:24: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:42:15: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:42:15: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:46:27: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:46:27: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:46:34: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:46:34: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:46:41: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:46:41: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:46:48: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:46:48: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:46:55: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:46:55: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:02: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:02: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:09: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:09: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:16: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:16: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:23: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:23: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:30: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:30: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:37: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:37: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:44: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:44: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:51: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:51: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:47:58: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:47:58: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:05: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:05: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:12: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:12: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:19: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:19: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:26: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:26: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:33: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:34: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+20:05:2021 20:48:41: Connection failed... | Thread-ID: 3
+-> MySql.Data <Unable to connect to any of the specified MySQL hosts.>
+20:05:2021 20:48:41: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+21:05:2021 19:28:18: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+21:05:2021 19:28:18: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+21:05:2021 19:28:23: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+21:05:2021 19:28:23: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+21:05:2021 19:28:28: Connection failed... | Thread-ID: 3
+-> MySql.Data <Client does not support authentication protocol requested by server; consider upgrading MySQL client>
+21:05:2021 19:28:28: SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp;  | Thread-ID: 3
+-> Mk.DBConnector <Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.>
+29:05:2021 11:43:04: SELECT * FROM kfztyp; | Thread-ID: 1
+-> MySql.Data <There is already an open DataReader associated with this Connection which must be closed first.>
+29:05:2021 11:49:01: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:03: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:06: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:06: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:06: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:06: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:07: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:49:07: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>
+29:05:2021 11:53:43: INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1'); | Thread-ID: 1
+-> MySql.Data <Duplicate entry '20' for key 'PRIMARY'>

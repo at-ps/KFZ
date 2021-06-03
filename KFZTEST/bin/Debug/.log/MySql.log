@@ -738,3 +738,913 @@ SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ F
 SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
 [2021-05-11 15:40:41 Thread-Id 3]
 SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:28:22 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:28:25 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:28:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:37:03 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:37:05 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:39:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:40:03 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:40:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:12 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:17 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:22 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:27 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:42 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:55 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:57:57 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 16:59:17 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:02:36 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:11:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:11:51 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:12:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:16:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:16:30 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:16:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:45 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-16 17:17:45 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:45 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('12','12','hk-do','100','3');
+[2021-05-16 17:17:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:17:55 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:18:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:18:50 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:18:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:27 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:53 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:56 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:21:57 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:23 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-16 17:22:23 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('14','14','ui-api-mtp','89','3');
+[2021-05-16 17:22:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-16 17:22:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:44:13 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:44:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:27 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:42 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:45:57 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:46:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:46:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:46:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:46:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:10 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:15 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:20 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:47:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:08 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:13 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:18 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:23 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:33 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:38 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:48:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:49:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:49:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:50:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:50:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:50:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:50:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:50:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:52:33 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:53:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:53:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:53:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:44 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:54:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:44 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:55:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:48 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:56:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:57:12 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:57:27 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:57:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:57:59 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:58:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 13:58:18 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:06:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:06:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:06:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:36 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:41 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:46 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:07:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:08:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:08:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:08:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:08:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:08:33 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:17:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:17:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:17:51 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 14:17:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:20:38 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:20:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:20:47 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:20:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:20:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:41:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:41:39 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:41:41 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:43:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:43:56 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:58:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:58:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:58:28 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 15:58:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 16:06:03 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 16:06:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 16:06:10 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 16:06:10 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:41:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:42:08 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:42:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:46:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:46:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:46:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:46:46 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:46:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:00 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:42 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:47:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:03 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:10 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:17 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-20 20:48:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:28:18 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:28:23 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:28:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:15 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:20 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:45 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:29:55 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:00 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:10 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:15 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:20 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:30:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:35 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:32:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:03 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-21 19:33:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:04:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:06:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:06:39 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:06:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:06:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 08:06:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:33 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:34 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:38 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:24:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:03 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:08 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:44 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:45 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:25:55 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:00 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:10 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:15 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:20 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:26:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:04 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:27:41 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:32 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:45 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:42:58 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:04 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:43:04 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','kk-lo-re','109','0');
+[2021-05-29 11:43:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:12 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:42 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:49 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:43:57 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:09 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:10 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:12 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:21 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:44:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:45:12 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:45:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:45:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:45:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:45:44 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:13 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:18 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:46:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:31 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:44 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:48:59 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:01 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:01 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:03 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:03 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:04 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:06 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:06 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:06 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:06 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:06 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:06 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:06 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:06 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:07 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:07 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:07 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:49:07 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:49:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:24 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:29 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:34 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:39 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:45 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:49:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:17 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:50:22 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:35 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:50:54 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:51:00 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:51:46 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:52:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:52:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:52:40 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:18 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:25 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:53:43 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('20','20','20-ll','108','1');
+[2021-05-29 11:53:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:14 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:19 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:21 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:27 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:44 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:50 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:54:55 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:55:00 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:55:05 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:55:10 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:55:15 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:32 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:32 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:37 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:42 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:47 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:52 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:57 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:56:58 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:56:58 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('21','21','fh-oi-test','100','3');
+[2021-05-29 11:57:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:57:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:57:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:03 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:07 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:12 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:17 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:22 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:28 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:28 Thread-Id 1]
+SELECT * FROM kfztyp;
+[2021-05-29 11:58:28 Thread-Id 1]
+INSERT INTO `kfz`(`idkfz`, `FahrgestellNr`, `Kennzeichen`, `Leistung`, `Typ`) VALUES('22','22','fh-oi-test','101','3');
+[2021-05-29 11:58:33 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:38 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:46 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:48 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-05-29 11:58:53 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:38:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:38:55 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:38:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:36 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:41 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:46 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:39:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:26 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:31 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:36 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:41 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:46 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:51 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:40:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:41:01 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:41:06 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:41:11 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:41:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:41:21 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:44:57 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:45:01 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 18:45:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:15:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:02 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:07 Thread-Id 1]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:09 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:16 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:23 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:30 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:38 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:43 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:49 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 
+[2021-06-02 19:16:56 Thread-Id 3]
+SELECT kfz.FahrgestellNr, kfz.idkfz, kfz.Kennzeichen, kfz.Leistung, kfztyp.Typ FROM kfz inner join kfztyp on kfz.Typ = kfztyp.idkfztyp; 

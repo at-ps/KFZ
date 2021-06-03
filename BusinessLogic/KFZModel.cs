@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic
 {
+
+//    public enum KFZ_TYP
+//    {
+//        Limusine, 
+//        Caprio,
+//        Kleinwagen
+//    }
     public class KFZModel
     {
         bool IsC { get; set; }
@@ -15,10 +22,11 @@ namespace BusinessLogic
         public string Typ { get; set; }
         public string Kennzeichnen { get; set; }
 
+
+
         public KFZModel()
-
         {
-
+            
 
 
         }

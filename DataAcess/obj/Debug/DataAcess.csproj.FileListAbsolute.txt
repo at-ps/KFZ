@@ -12,3 +12,17 @@ C:\Users\winkler\source\repos\KFZTEST\DataAcess\bin\Debug\CommonType.pdb
 C:\Users\winkler\source\repos\KFZTEST\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
 C:\Users\winkler\source\repos\KFZTEST\DataAcess\obj\Debug\DataAcess.dll
 C:\Users\winkler\source\repos\KFZTEST\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\CommonType.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\Mk.DBConnector.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\Mk.Log.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\MySql.Data.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\Npgsql.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\Mono.Security.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\bin\Debug\CommonType.pdb
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\obj\Debug\DataAcess.csprojAssemblyReference.cache
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\winkler\OneDrive - frrfrfrf44\Desktop\KFZ\DataAcess\obj\Debug\DataAcess.pdb
